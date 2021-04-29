@@ -1,0 +1,23 @@
+/*external style*/
+body{
+    background-color: rgb(240, 240, 215);
+    background-image: url("avataaars.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#left{
+    
+    background-color: cadetblue;
+    float: left;
+    
+}
+#right{
+    background-color: cadetblue;
+    float: none;
+    font-weight: 50;
+    font-size: 200;
+    text-align: center;
+}
+h1{    
+    font-size: 250;
+}
