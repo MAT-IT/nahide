@@ -3,7 +3,12 @@ body{
     background-color: rgb(240, 240, 215);
     background-image: url("avataaars.png");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position:top;
+    
+}
+.header{
+    padding-top: 30px;
+    margin: 10px;
 }
 #left{
     
